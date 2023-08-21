@@ -1,5 +1,8 @@
 ### I'm Pedro Vinicius, a computer science student 💻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peuvini&show_icons=true&theme=radical)
+<div style="display: flex" >
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=peuvini&count_private=true&show_icons=true&theme=midnight-purple&locale" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuvini&theme=midnight-purple&locale" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,6 +12,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 <!--
 **peuvini/peuvini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
