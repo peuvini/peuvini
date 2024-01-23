@@ -1,17 +1,35 @@
-### I'm Pedro Vinicius, a computer science student 💻
-<!-- <div style="display: flex" >
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=peuvini&count_private=true&show_icons=true&theme=midnight-purple&locale" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuvini&theme=midnight-purple&locale" />
-</div>
--->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Pedro!;" />
+</h1>
+
+<div  align="center" >
+- 👨‍💻 Atualmente estou estudando django, python, react, css ...
 </div>
 
+<h2 align="center" >⚙️ Linguagens-Frameworks-Ferramentas ⚙️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=react,html,css,python,django,vscode,github,figma,java,git,typescript,postgresql" />
+</div>
 
-![Snake animation](https://github.com/peuvini/peuvini/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=peuvini&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=peuvini&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=peuvini&show_icons=true" />
+</picture>
+</div>
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
+
+
