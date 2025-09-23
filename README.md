@@ -9,7 +9,7 @@
 <h2 align="center" >⚙️ Linguagens-Frameworks-Ferramentas ⚙️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=nextjs,selenium,typescript,tailwind,github,figma,typescript,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,c++,typescript,mongodb,postgresql" />
 </div>
 
 
