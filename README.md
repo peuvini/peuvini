@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Pedro+Pereira!;Desenvolvedor+RPA;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;I'm+Pedro+Pereira!;RPA+Developer;" />
 </h1>
 
 <div align="center">
   <p>
-    👨‍💻 Desenvolvedor RPA focado em automação web, integração de sistemas e desenvolvimento backend.
+    👨‍💻 RPA Developer focused on web automation, system integration, and backend development.
   </p>
 
   <p>
-    Crio soluções para automatizar processos, extrair dados, integrar APIs e otimizar fluxos de trabalho utilizando
+    I build solutions to automate processes, extract data, integrate APIs, and optimize workflows using
     <strong>Python</strong>, <strong>Selenium</strong>, <strong>Playwright</strong>, 
-    <strong>FastAPI</strong>, <strong>PostgreSQL</strong> e <strong>MongoDB</strong>.
+    <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, and <strong>MongoDB</strong>.
   </p>
 </div>
 
 ---
 
-<h2 align="center">⚙️ Tecnologias e Ferramentas ⚙️</h2>
+<h2 align="center">⚙️ Technologies and Tools ⚙️</h2>
 
 <br>
 
@@ -26,16 +26,16 @@
 
 ---
 
-<h2 align="center">🚀 Áreas de atuação</h2>
+<h2 align="center">🚀 Areas of Expertise</h2>
 
 <div align="center">
 
-| Especialidade | Descrição |
+| Specialty | Description |
 |---|---|
-| RPA | Automação de processos repetitivos e fluxos operacionais |
-| Web Automation | Robôs com Selenium e Playwright |
-| Backend | APIs com FastAPI |
-| Banco de Dados | PostgreSQL e MongoDB |
-| Integrações | Comunicação entre sistemas, APIs e plataformas web |
+| RPA | Automation of repetitive processes and operational workflows |
+| Web Automation | Bots built with Selenium and Playwright |
+| Backend | APIs with FastAPI |
+| Databases | PostgreSQL and MongoDB |
+| Integrations | Communication between systems, APIs, and web platforms |
 
 </div>
